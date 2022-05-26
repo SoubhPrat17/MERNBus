@@ -1,0 +1,5 @@
+mongodb+srv://Pratik:<password>@cluster0.7p7pl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+username-Pratik
+pass-Marco11@Reus
+Db name-mern-bootcamp
