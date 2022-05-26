@@ -1,0 +1,141 @@
+.nav-font {
+  font-family: 'Itim', cursive;
+}
+
+/* Home Page */
+#home-title{
+  margin: 2% 0 3% 0;
+  font-weight: 700;
+  font-family: "Poppins",sans-serif;
+  text-align: center;
+}
+.carousel-caption
+{
+  color:yellow !important;
+  background: rgba(110, 1, 15, 0.425);
+  padding-top:15%;
+  right:0%;
+  left:0%;
+  top: 0%;
+  height: 100%;
+  border-radius: 1.2rem;
+}
+#service-title{
+  margin: 2% 0 1% 0;
+  font-weight: 700;
+  font-family: "Poppins",sans-serif;
+  text-align: center;
+}
+.card{
+  width: 18rem;
+  height: auto;
+}
+.carousel-caption-review
+{
+  color:white !important;
+  background: purple;
+  padding-top:15%;
+  right:0%;
+  left:0%;
+  top: 0%;
+  height: 100%;
+  border-radius: 1.2rem;
+}
+
+
+/* Contact Page */
+.contact-row{
+  margin:2%
+}
+.contact-col{
+  margin:2%;
+}
+.contact-icon{
+  display: flex;
+  width:auto;
+}
+.widgets_div .text_div {
+  display: inline-block;
+  margin-left: 10px;
+}
+.widgets_div .icon_div {
+  display: inline-block;
+  margin-left: 15px;
+}
+.icon_div .zmdi-phone{
+  font-size: 22px;
+}
+
+/* Login Page */
+.login{
+  background-image: url(./Components/images/pexels-miguel-á-padriñán-2882566.jpg);
+}
+.login-title{
+  font-family: 'Poppins',sans-serif;
+  font-weight: 700;
+  text-shadow: 0px 0px 2.5rem rgb(37, 36, 36);
+}
+.login-form{
+  margin-top: 7rem;
+  padding: 3rem;
+}
+
+/* Register page */
+.register-content {
+  border-radius: 0.75rem;
+  box-shadow: rgba(0, 204, 255, 0.8) 0px 0px 15px;
+}
+.signup-form {
+  padding: 2rem;
+  margin: 2rem;
+}
+.form-title{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 700;
+  padding-bottom: 0.15rem;
+}
+.form-control {
+  font-family: 'Poppins',sans-serif;
+  display: inline-block;
+  width: 85%;
+  margin: 0.5rem;
+  padding: 0.375rem 0.75rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+  transition: rgba(0, 204, 255, 0.678) .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.form-button {
+  padding: 0.25rem;
+  margin: 0.75rem;
+  font-family: 'Poppins',sans-serif;
+}
+.register-navlink{
+  text-decoration: none;
+  font-family:'Poppins', sans-serif;
+  font-weight:500;
+  text-shadow: black 0.15rem 0 0.75rem;
+  font-size: 1.05rem;
+}
+.register-navlink:hover{
+  text-decoration: underline;
+  font-size: 1.10rem;
+  transition:  300ms ease-in-out;
+}
+
+
+/* Footer Part */
+.blog-footer{
+  position: relative;
+  top:100%;
+  width: 100%;
+  height: 10%;
+}
